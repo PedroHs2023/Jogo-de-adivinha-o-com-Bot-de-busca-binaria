@@ -1,0 +1,1 @@
+# Jogo-de-adivinha-o-com-Bot-de-busca-binaria
