@@ -9,7 +9,7 @@ public class Main {
         // Bot com busca Binaria
         int limiteInferior = 0;
         int limiteSuperior = 99;
-        int chute = 0;
+        int chute;
         int tentativas = 0;
 
         while(true){
